@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 data/
+/Lesson_14/model/
+/Lesson_14/t5_model/
+/Lesson_14/dataset.jsonl
+/Lesson_14/dataset.jsonl
+/Lesson_14/lenta-ru-news.csv.bz2
